@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+docker-compose.debug.yml
+docker-compose.yml
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+node_modules/
+package-lock.json
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.env.test
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+.vscode/

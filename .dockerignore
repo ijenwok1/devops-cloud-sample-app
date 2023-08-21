@@ -1,0 +1,13 @@
+**/.classpath
+**/.dockerignore
+**/.env
+**/.git
+**/.gitignore
+**/charts
+**/docker-compose*
+**/compose*
+**/Dockerfile*
+**/node_modules
+README.md
+**/docs
+package-lock.json
